@@ -1,4 +1,4 @@
-# Image-Tools
+# Comuter-Vision
 Scripts for image manipulation
 
 ## Installation
